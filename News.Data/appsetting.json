@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "NewsDb": "Server=DESKTOP-5RSIQ7D\\TQUYNH;Database=News;Trusted_Connection=True;"
+  }
+}
